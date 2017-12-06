@@ -11,16 +11,24 @@ Term: Fall 2017
 	
 **Contribution statement**: 
 Yina Wei:
++ Gathered data from several large dataset and processed the data
++ Bulit linear regression, neural network, random forest models to make prediction
++ Comparison of the models result
++ Created a ppt for presentation and present to class
+
+Jiayu Ni:
+Data processiong and draw plots
+Built Lasso model
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
 proj/
-├── lib/r code
-├── data/winequality-red/winequality-white
-├── doc/summary
-├── figs/
-└── output/ppt
+├── lib/ r code
+├── data/ winequality-red; winequality-white (data after processing)
+├── doc/ r code
+├── figs/ original data
+└── output/ppt; report
 ```
 
 Please see each subfolder for a README file.
