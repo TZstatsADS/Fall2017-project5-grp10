@@ -7,10 +7,10 @@ Term: Fall 2017
 + Team members
 	+ team member Yina Wei
 	+ team member Jiayu Ni
-+ Project summary: 
++ Project summary: We implemented four methods to make prediction for the wine quality: linear regression, LASSO, neural network, Random forest. We adopted 12 varibales to make the prediction and used MSE as performance matrix. After model evulation and comparison, we found out that the result for the random forest is the best.
 	
 **Contribution statement**: 
-
+Yina Wei:
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
