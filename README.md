@@ -28,7 +28,7 @@ proj/
 ├── data/ winequality-red; winequality-white (data after processing)
 ├── doc/ r code
 ├── figs/ original data
-└── output/ppt; report
+└── output/r code; ppt; report
 ```
 
 Please see each subfolder for a README file.
